@@ -1,7 +1,9 @@
-# Project-06
+# Exercise-06C-Dialog
 
-# Features added
+# References
 
-# References to resources used in the project
+Textures from: https://freepbr.com/
+Models and animations from: Mixamo.com
 
-# Created by
+# Created by 
+Nathan Mishler
