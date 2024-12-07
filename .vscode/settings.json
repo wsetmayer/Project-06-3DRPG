@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Exercise-6C-Dialog.sln"
+    "dotnet.defaultSolution": "Project-06-3DRPG.sln"
 }
